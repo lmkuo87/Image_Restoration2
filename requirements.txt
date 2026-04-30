@@ -12,3 +12,8 @@ scikit-image
 scipy
 tensorboard
 wandb
+
+modelscope
+addict
+einops
+modelscope
