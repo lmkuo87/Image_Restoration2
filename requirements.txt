@@ -13,7 +13,6 @@ scipy
 tensorboard
 wandb
 
-modelscope
 addict
 einops
 modelscope
